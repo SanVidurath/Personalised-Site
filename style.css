@@ -114,13 +114,9 @@ hr{
   left: 200px;
 }
 
-.skills{
-  padding-bottom:10px;
-}
-
 .skill-row{
   width: 50%;
-  margin: 100px auto;
+  margin: 100px auto 140px auto;
   text-align: left;
   line-height: 2;
 }
